@@ -21,3 +21,11 @@ npm i @tailwindcss/forms @tailwindcss/typography @tailwindcss/line-clamp @tailwi
 ```txt
 npm i @metamask/detect-provider @openzeppelin/contracts babel-polyfill babel-preset-env babel-preset-stage-2 babel-preset-stage-3 babel-register chai chai-as-promised chai-bignumber react-router-dom truffle web3
 ```
+
+```txt
+npm i -g truffle
+```
+
+```txt
+truffle init
+```
