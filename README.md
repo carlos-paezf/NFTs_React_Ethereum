@@ -29,3 +29,31 @@ npm i -g truffle
 ```txt
 truffle init
 ```
+
+```txt
+truffle compile
+```
+
+```txt
+truffle migrate
+```
+
+```txt
+truffle migrate --reset
+```
+
+```txt
+truffle console
+```
+
+```sol
+nft = await NFTReactETH.deployed()
+nft.name()
+nft.symbol()
+nft.mint("http...<n_token>")
+nft.balanceOf("<address_from>")
+nft.ownerOf(<id_token>)
+nft.totalSupply()
+nft.tokenByIndex(<index_token>)
+nft.tokenOfOwnerByIndex("<address_from>", <index_token>)
+```
