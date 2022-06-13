@@ -57,3 +57,19 @@ nft.totalSupply()
 nft.tokenByIndex(<index_token>)
 nft.tokenOfOwnerByIndex("<address_from>", <index_token>)
 ```
+
+```txt
+truffle test
+```
+
+```txt
+npm i react-toastify redux 
+```
+
+```txt
+npm i redux redux-thunk react-redux redux-devtools-extension 
+```
+
+```txt
+npm i @reduxjs/toolkit
+```
