@@ -1,0 +1,2 @@
+export const LOAD_WEB3_SUCCESS = 'LOAD_WEB3_SUCCESS'
+export const LOAD_WEB3_FAIL = 'LOAD_WEB3_FAIL'
